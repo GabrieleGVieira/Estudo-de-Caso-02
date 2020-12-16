@@ -16,9 +16,10 @@
 
 ## Introdução
 
-[Definição do problema de negócio]()
+[Definição do problema de negócio](https://github.com/GabrieleGVieira/Estudo-de-Caso-02/blob/main/docs/EstudoCaso2.pdf)
 
 ## Objetivo
+
 
 
 ## Ferramentas
