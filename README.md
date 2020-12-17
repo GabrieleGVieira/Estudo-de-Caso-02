@@ -1,4 +1,4 @@
-# Estudo de Caso 02 - 
+# Estudo de Caso 02 - Estratégia de Vendas
 
 > Status: Em Desenvolvimento ⚠️
 
