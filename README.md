@@ -29,6 +29,6 @@ Criar um modelo de dados que permita extrair dados por meio de diferentes visõe
 
 Software: Power BI 📊
 
-Técnica: Business Intelligence - Análise Descritiva
+Técnica: 
 
 ## Dashboard
