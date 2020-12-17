@@ -29,6 +29,6 @@ Criar um modelo de dados que permita extrair informações por meio de diferente
 
 Software: Power BI 📊
 
-Técnica: 
+Técnica: Star Schema
 
 ## Dashboard
