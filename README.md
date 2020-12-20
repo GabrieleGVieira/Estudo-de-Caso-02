@@ -25,7 +25,7 @@ Criar um modelo de dados que permita extrair informações por meio de diferente
 
 ## Ferramentas
 
-[Dados]()
+[Dados](https://github.com/GabrieleGVieira/Estudo-de-Caso-02/blob/main/docs/Vendas.xlsx)
 
 Software: Power BI 📊
 
