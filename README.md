@@ -20,7 +20,7 @@
 
 ## Objetivo
 
-Criar um modelo de dados que permita extrair informações por meio de diferentes visões e que seja facilmente customizado.
+Criar um modelo de dados que permita extrair informações por meio de diferentes visões e que seja facilmente customizado. Análisar quais são os fabricantes que apresentam os melhores desempenhos em vendas.
 
 
 ## Ferramentas
