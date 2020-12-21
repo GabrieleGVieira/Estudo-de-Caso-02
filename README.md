@@ -40,7 +40,7 @@ Técnica: Star Schema
 ## Exercícios Propostos
 
 
-# Crie um Dashboard no Power BI que responda a estas perguntas:
+Crie um Dashboard no Power BI que responda a estas perguntas:
 
 
 1- Qual dos fabricantes dos produtos vendidos, apresenta melhor desempenho nas vendas? 
